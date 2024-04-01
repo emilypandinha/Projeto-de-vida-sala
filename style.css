@@ -5,7 +5,7 @@
     --botao-inativo: rgba(162, 58, 152, 0.7);
     --botao-ativo :#8e28c9;
     --branco:#ffffff;
-    --cor-letra: #ca1561;
+    --cor-letra: #15beca;
 }
 body{
     background-color: var(--cor-de-fundo);
