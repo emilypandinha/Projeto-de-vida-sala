@@ -11,7 +11,7 @@
 }
 
 body{
-    background-color: var(black);
+    background-color:black;
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif; 
 }
